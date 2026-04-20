@@ -1,4 +1,4 @@
-# 🔥 HYCRON NGL SPAMMER - Python Edition
+#  NGL Spammer Python
 
 > **The Ultimate NGL Bombing Tool | Multi-threaded | Unlimited | Free | Open-source**
 
